@@ -6,8 +6,13 @@
 	objectVersion = 90;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D92E19EF30270F0100F6F047 /* fortnite-ishowspeed-skin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D92E19EE30270F0100F6F047 /* fortnite-ishowspeed-skin.jpg */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* MascotMadness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MascotMadness.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D92E19EE30270F0100F6F047 /* fortnite-ishowspeed-skin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fortnite-ishowspeed-skin.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 			children = (
 				000000000000000000000010 /* MascotMadness */,
 				000000000000000000000020 /* Products */,
+				D92E19EE30270F0100F6F047 /* fortnite-ishowspeed-skin.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -102,6 +108,7 @@
 		000000000000000140000000 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				D92E19EF30270F0100F6F047 /* fortnite-ishowspeed-skin.jpg in Resources */,
 			);
 		};
 /* End PBXResourcesBuildPhase section */
